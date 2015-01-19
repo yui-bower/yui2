@@ -1,5 +1,5 @@
 YUI 2.x is deprecated. This code is preserved here as a legacy archive for any
-poor soul who needs to work with it. Please use YUI 3.x (http://www.yuilibrary.com).
+poor soul who needs to work with it, but somehow needs to interoperate with bower. Please use YUI 3.x (http://www.yuilibrary.com).
 
 * Documentation: http://yui.github.io/yui2/
 * License: http://yuilibrary.com/license/
